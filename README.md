@@ -1,4 +1,11 @@
-### Hi there 👋
+<h3 align="center">Hi 👀 I'm Simge👩🏻‍💻</h3>
+
+---
+
+<p align="center">
+  <a href="https://twitter.com/simgeatlhn">Twitter</a> •
+  <a href="https://www.linkedin.com/in/simge-atlıhan-b774821bb/">Linkedin</a>
+</p>
 
 <!--
 **simgeatlhn/simgeatlhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
