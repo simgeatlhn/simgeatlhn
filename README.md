@@ -1,5 +1,7 @@
 <h3 align="center">Hi 👀 I'm Simge👩🏻‍💻</h3>
-<a  align="center" href="https://simgeatlhn.github.io/">Personal Website</a>
+<p align="center">
+  <a href="https://simgeatlhn.github.io/">Personal Website</a>
+</p>
 
 ---
 
