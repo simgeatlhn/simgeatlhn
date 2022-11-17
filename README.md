@@ -1,9 +1,9 @@
 <h3 align="center">Hi 👀 I'm Simge👩🏻‍💻</h3>
+<a  align="center" href="https://simgeatlhn.github.io/">Personal Website</a>
 
 ---
 
 <p align="center">
-  <a href="https://simgeatlhn.github.io/">Personal Website</a> •
   <a href="https://twitter.com/simgeatlhn">Twitter</a> •
   <a href="https://www.linkedin.com/in/simge-atlıhan-b774821bb/">Linkedin</a> •
   <a href="https://www.hackerrank.com/simgeeatlihan">Hackerrank</a>
