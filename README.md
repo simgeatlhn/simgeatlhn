@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://twitter.com/simgeatlhn">Twitter</a> •
-  <a href="https://www.linkedin.com/in/simge-atlıhan-b774821bb/">Linkedin</a> •
+  <a href="https://www.linkedin.com/in/simge-atlıhan-b774821bb/">Linkedin</a> 
 </p>
 
 
