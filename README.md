@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/simge-atlıhan-b774821bb/">Linkedin</a> 
+  <a href="https://www.linkedin.com/in/simge-atlıhan-b774821bb/">LinkedIn</a> 
 </p>
 
 
